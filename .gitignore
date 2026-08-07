@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# Executable files
+*.exe
+
+# Output folders
+output/
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
