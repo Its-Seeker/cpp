@@ -19,7 +19,7 @@ cout<<endl;
 
 int main(){
 int arr[6]={5,7,12,-9,0,6};
-int brr[5]={2,4,6,5,8};
+int brr[5]={2,4,6,5,8}; 
 
 reverse(arr,6);
 reverse(brr,5);
